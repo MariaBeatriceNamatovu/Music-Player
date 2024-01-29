@@ -32,6 +32,9 @@ To run the Simple Music Player App locally, follow these steps:
 1. **Play/Pause:** Click the play/pause button to start or pause the playback of the track.
 2. **Track Progress:** Use the progress bar to track the playback progress and seek to different parts of the track.
 
+## Deployed Site:
+https://mariabeatricenamatovu.github.io/Music-Player/
+
 ## Preview:
 ![Music Player App Preview](preview.png)
 
