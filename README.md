@@ -33,7 +33,7 @@ To run the Simple Music Player App locally, follow these steps:
 2. **Track Progress:** Use the progress bar to track the playback progress and seek to different parts of the track.
 
 ## Preview:
-![Music Player App Preview](music_player_preview.png)
+![Music Player App Preview](preview.png)
 
 ## Support:
 For any questions, issues, or feedback, please contact namatovutrismari@gmail.com.
